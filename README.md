@@ -10,11 +10,11 @@ My name is Khanh Nguyen, but you can call me EnnHnahK 🌝. Currently, I am inte
 <a href="https://github.com/EnnHnahK/AES_Encryption">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EnnHnahK&repo=AES_Encryption&theme=radical" style="padding-bottom: 10px;" />
 </a>   
-<a href="https://github.com/EnnHnahK/MediaPlayerApplication">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EnnHnahK&repo=MediaPlayerApplication&theme=radical" style="padding-bottom: 10px;" />
+<a href="https://github.com/EnnHnahK/MFCMediaPlayer">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EnnHnahK&repo=MFCMediaPlayer&theme=dracula" style="padding-bottom: 10px;" />
 </a>   
 <a href="https://github.com/EnnHnahK/TheCoffeeSpace_WebApplication_MVC">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EnnHnahK&repo=TheCoffeeSpace_WebApplication_MVC&theme=radical" style="padding-bottom: 10px;" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EnnHnahK&repo=TheCoffeeSpace_WebApplication_MVC&theme=dracula" style="padding-bottom: 10px;" />
 </a>   
 <!--
 **EnnHnahK/EnnHnahK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
