@@ -1,5 +1,8 @@
 ### HI THERE. WELCOME TO MY PAGE 💖
 My name is Khanh Nguyen, but you can call me EnnHnahK 🌝. Currently, I am interested in the following topics: Game Development, Game Technology, BlockChain and Cybersecurity. Yup I'm interested in all things xD.
+## Contact me:
+LinkedIn: [EnnHnahK](https://www.linkedin.com/in/ennhnahk/)
+
 ## 📫 How to reach me: 
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub [EnnHnahK]](https://github.com/EnnHnahK/)
